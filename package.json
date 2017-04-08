@@ -14,6 +14,7 @@
     "mongodb": "^2.2.25"
   },
 
-  "engines": "node",
-  "version": "7.3.0"
+  "engines":{
+    "node": "7.3.0"
+  } 
 }
